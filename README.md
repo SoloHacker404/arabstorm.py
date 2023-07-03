@@ -5,6 +5,7 @@ First Arabian tool in termux
 
                            اولا قم بتحميل حزمة بايثون عن طريق الامر:
 pkg install python
+                         
                            ثم حمل ملف الاداة من هذا الرابط :
 https://mega.nz/file/loByEA4B#3QlsGNIVAMXQD8FOCYpAxg7qQc2xYZXK2gFEWicqszA
 
